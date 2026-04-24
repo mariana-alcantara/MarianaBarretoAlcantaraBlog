@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mariana-alcantara.github.io/MarianaBarretoAlcantaraBlog/index.html</loc>
-    <lastmod>2026-04-03T04:01:18.539Z</lastmod>
+    <loc>https://mariana-alcantara.github.io/MarianaBarretoAlcantaraBlog/posts/first-post/index.html</loc>
+    <lastmod>2026-04-24T00:51:41.225Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mariana-alcantara.github.io/MarianaBarretoAlcantaraBlog/blog.html</loc>
+    <lastmod>2026-04-24T00:49:25.228Z</lastmod>
   </url>
   <url>
     <loc>https://mariana-alcantara.github.io/MarianaBarretoAlcantaraBlog/about.html</loc>
     <lastmod>2026-04-03T04:01:18.541Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mariana-alcantara.github.io/MarianaBarretoAlcantaraBlog/index.html</loc>
+    <lastmod>2026-04-23T03:51:53.084Z</lastmod>
   </url>
 </urlset>
