@@ -177,7 +177,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Z2l0">git <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z2l0aHVi">github <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW5mcmFzdHJ1Y3R1cmU=">infrastructure <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cXVhcnRv">quarto <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -206,7 +206,43 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1776841200000" data-listing-file-modified-sort="1776991901225" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
+<div class="quarto-post image-right" data-index="0" data-categories="aW5mcmFzdHJ1Y3R1cmUlMkNxdWFydG8lMkNnaXRodWIlMkNnaXQ=" data-listing-date-sort="1780887600000" data-listing-file-modified-sort="1780964375877" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="506">
+<div class="thumbnail"><a href="./posts/infrastructure-post/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/infrastructure-post/index.html" class="no-external">Building the Infrastructure Behind the Science: My Experience with Quarto, GitHub, and Git</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('aW5mcmFzdHJ1Y3R1cmU='); return false;">infrastructure</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('cXVhcnRv'); return false;">quarto</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Z2l0aHVi'); return false;">github</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Z2l0'); return false;">git</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/infrastructure-post/index.html" class="no-external">
+When I joined Instituto Dourados as a Junior Research Intern, I expected to spend most of my time working with data. What I didn’t expect was that some of my most valuable…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/infrastructure-post/index.html" class="no-external">
+<div class="listing-date">
+Jun 8, 2026
+</div>
+<div class="listing-author">
+Mariana Barreto Alcântara
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1776826800000" data-listing-file-modified-sort="1776991901225" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="198">
 <div class="thumbnail"><a href="./posts/first-post/index.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -307,7 +343,7 @@ Mariana Barreto Alcantara
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/mariana-alcantara\.github\.io\/MarianaBarretoAlcantaraBlog\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

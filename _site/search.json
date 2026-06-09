@@ -1,5 +1,82 @@
 [
   {
+    "objectID": "posts/infrastructure-post/index.html",
+    "href": "posts/infrastructure-post/index.html",
+    "title": "Building the Infrastructure Behind the Science: My Experience with Quarto, GitHub, and Git",
+    "section": "",
+    "text": "When I joined Instituto Dourados as a Junior Research Intern, I expected to spend most of my time working with data. What I didn’t expect was that some of my most valuable early contributions would be building the digital infrastructure that supports the Institute’s scientific communication, and that in doing so, I would learn tools that I now consider essential to modern research work."
+  },
+  {
+    "objectID": "posts/infrastructure-post/index.html#what-is-infrastructure-internship-work-anyway",
+    "href": "posts/infrastructure-post/index.html#what-is-infrastructure-internship-work-anyway",
+    "title": "Building the Infrastructure Behind the Science: My Experience with Quarto, GitHub, and Git",
+    "section": "What Is Infrastructure Internship Work, Anyway?",
+    "text": "What Is Infrastructure Internship Work, Anyway?\nAt Instituto Dourados, “infrastructure” means the systems that allow science to be communicated, organized, and shared with the world. That includes the Institute’s bilingual website, its blog, and the technical workflows that keep everything running smoothly. As an Infrastructure Intern, my job has been to build and maintain these systems, which meant learning a set of tools I had never used before."
+  },
+  {
+    "objectID": "posts/infrastructure-post/index.html#quarto-writing-and-publishing-in-one-place",
+    "href": "posts/infrastructure-post/index.html#quarto-writing-and-publishing-in-one-place",
+    "title": "Building the Infrastructure Behind the Science: My Experience with Quarto, GitHub, and Git",
+    "section": "Quarto: Writing and Publishing in One Place",
+    "text": "Quarto: Writing and Publishing in One Place\nThe Instituto Dourados website is built with Quarto, an open-source publishing system that lets you write content in plain text and publish it as a polished website, PDF, or document. Think of it as a bridge between writing and coding, where you can mix prose, code, and formatted output all in one file.\nLearning Quarto meant learning a new way of thinking about documents. Instead of formatting text manually in Word or Google Docs, you write in a lightweight syntax called Markdown, and Quarto handles the rest. At first this felt counterintuitive, but I quickly came to appreciate how clean and reproducible it makes the whole process. Every page on the Instituto Dourados website, from the home page to the blog posts, is a Quarto file that I can open, edit, and republish in minutes."
+  },
+  {
+    "objectID": "posts/infrastructure-post/index.html#github-and-git-collaboration-without-chaos",
+    "href": "posts/infrastructure-post/index.html#github-and-git-collaboration-without-chaos",
+    "title": "Building the Infrastructure Behind the Science: My Experience with Quarto, GitHub, and Git",
+    "section": "GitHub and Git: Collaboration Without Chaos",
+    "text": "GitHub and Git: Collaboration Without Chaos\nThe other major tools I learned were Git and GitHub. Git is a version control system that keeps track of every change you make to a file, so you can always go back to an earlier version if something goes wrong. GitHub is the platform where those changes are stored and shared online.\nThe workflow I now follow looks something like this: I make changes to the website files on my computer, commit those changes with a message describing what I did, push them to my copy of the repository on GitHub, and then open a Pull Request, a formal request for the project lead to review and approve my changes before they go live. This process has taught me to be intentional and clear about every change I make, and to communicate my work in a way that others can understand and evaluate."
+  },
+  {
+    "objectID": "posts/infrastructure-post/index.html#what-this-taught-me-beyond-the-tools",
+    "href": "posts/infrastructure-post/index.html#what-this-taught-me-beyond-the-tools",
+    "title": "Building the Infrastructure Behind the Science: My Experience with Quarto, GitHub, and Git",
+    "section": "What This Taught Me Beyond the Tools",
+    "text": "What This Taught Me Beyond the Tools\nThe most surprising thing about this work was how much it changed the way I think about collaboration and documentation. In research, it’s easy to focus on the science and treat the surrounding infrastructure as an afterthought. But the infrastructure is what makes science accessible, to collaborators, to students, to the public.\nI’m still learning, and there is a lot more to Git and Quarto than I’ve explored so far, but I now feel equipped to contribute to projects that use these tools, and excited to keep building."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mariana Barreto Alcantara",
+    "section": "",
+    "text": "I am Mariana Barreto Alcantara, a first-year student at the University of California, Berkeley, double majoring in Neuroscience and Business Administration. Originally from Salvador, Bahia, Brazil, I have spent the past four years in the United States and am passionate about applying the knowledge and skills I have gained here to strengthen Brazilian public health.\nAs a Junior Research Intern, I contribute to public health communications aimed at educating communities on healthy living practices and the role of scientific research in promoting well-being. My work also spans social sciences and computational epidemiology, where I help develop systems to visualize public health data and identify the social factors that most significantly influence disease spread across different contexts.\nDriven by my roots and my interdisciplinary background, I am committed to bridging scientific research and community impact in Brazil."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I was born in Tampa, Florida in 2007. The following year, my family moved to Aracaju, Sergipe, Brazil, where I spent my early childhood. In 2020, we relocated to Brasília, Brazil, where I founded Bem Social, a non-profit organization focused on donating food, clothing, and hygiene products to those in need.\nIn 2022, I moved to San Jose, California to attend high school, and in 2025 I began my studies at the University of California, Berkeley, double majoring in Neuroscience and Business Administration."
+  },
+  {
+    "objectID": "about.html#my-story",
+    "href": "about.html#my-story",
+    "title": "About",
+    "section": "",
+    "text": "I was born in Tampa, Florida in 2007. The following year, my family moved to Aracaju, Sergipe, Brazil, where I spent my early childhood. In 2020, we relocated to Brasília, Brazil, where I founded Bem Social, a non-profit organization focused on donating food, clothing, and hygiene products to those in need.\nIn 2022, I moved to San Jose, California to attend high school, and in 2025 I began my studies at the University of California, Berkeley, double majoring in Neuroscience and Business Administration."
+  },
+  {
+    "objectID": "about.html#what-im-involved-in",
+    "href": "about.html#what-im-involved-in",
+    "title": "About",
+    "section": "What I’m Involved In",
+    "text": "What I’m Involved In\nAt UC Berkeley:\nLatino Business Student Association — Consulting Intern\nBRASA Berkeley — Head of Finance\nBeyond Campus:\nBrazil at Silicon Valley — Head of Operations"
+  },
+  {
+    "objectID": "about.html#my-research",
+    "href": "about.html#my-research",
+    "title": "About",
+    "section": "My Research",
+    "text": "My Research\nI am currently a Junior Research Intern at Instituto Dourados, where I work on social epidemiology research focused on Indigenous public health in the Reserva Indígena de Dourados, Mato Grosso do Sul, Brazil."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Building the Infrastructure Behind the Science: My Experience with Quarto, GitHub, and Git\n\n\n\ninfrastructure\n\nquarto\n\ngithub\n\ngit\n\n\n\n\n\n\n\n\n\nJun 8, 2026\n\n\nMariana Barreto Alcântara\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados\n\n\n\n\n\n\n\n\nApr 22, 2026\n\n\nMariana Barreto Alcantara\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/first-post/index.html",
     "href": "posts/first-post/index.html",
     "title": "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados",
@@ -33,47 +110,5 @@
     "title": "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados",
     "section": "Reflection",
     "text": "Reflection\nThis was my first experience analyzing real epidemiological data using R. It was challenging but rewarding to work with data that has real implications for public health in Brazil."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados\n\n\n\n\n\n\n\n\nApr 22, 2026\n\n\nMariana Barreto Alcantara\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I was born in Tampa, Florida in 2007. The following year, my family moved to Aracaju, Sergipe, Brazil, where I spent my early childhood. In 2020, we relocated to Brasília, Brazil, where I founded Bem Social, a non-profit organization focused on donating food, clothing, and hygiene products to those in need.\nIn 2022, I moved to San Jose, California to attend high school, and in 2025 I began my studies at the University of California, Berkeley, double majoring in Neuroscience and Business Administration."
-  },
-  {
-    "objectID": "about.html#my-story",
-    "href": "about.html#my-story",
-    "title": "About",
-    "section": "",
-    "text": "I was born in Tampa, Florida in 2007. The following year, my family moved to Aracaju, Sergipe, Brazil, where I spent my early childhood. In 2020, we relocated to Brasília, Brazil, where I founded Bem Social, a non-profit organization focused on donating food, clothing, and hygiene products to those in need.\nIn 2022, I moved to San Jose, California to attend high school, and in 2025 I began my studies at the University of California, Berkeley, double majoring in Neuroscience and Business Administration."
-  },
-  {
-    "objectID": "about.html#what-im-involved-in",
-    "href": "about.html#what-im-involved-in",
-    "title": "About",
-    "section": "What I’m Involved In",
-    "text": "What I’m Involved In\nAt UC Berkeley:\nLatino Business Student Association — Consulting Intern\nBRASA Berkeley — Head of Finance\nBeyond Campus:\nBrazil at Silicon Valley — Head of Operations"
-  },
-  {
-    "objectID": "about.html#my-research",
-    "href": "about.html#my-research",
-    "title": "About",
-    "section": "My Research",
-    "text": "My Research\nI am currently a Junior Research Intern at Instituto Dourados, where I work on social epidemiology research focused on Indigenous public health in the Reserva Indígena de Dourados, Mato Grosso do Sul, Brazil."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mariana Barreto Alcantara",
-    "section": "",
-    "text": "I am Mariana Barreto Alcantara, a first-year student at the University of California, Berkeley, double majoring in Neuroscience and Business Administration. Originally from Salvador, Bahia, Brazil, I have spent the past four years in the United States and am passionate about applying the knowledge and skills I have gained here to strengthen Brazilian public health.\nAs a Junior Research Intern, I contribute to public health communications aimed at educating communities on healthy living practices and the role of scientific research in promoting well-being. My work also spans social sciences and computational epidemiology, where I help develop systems to visualize public health data and identify the social factors that most significantly influence disease spread across different contexts.\nDriven by my roots and my interdisciplinary background, I am committed to bridging scientific research and community impact in Brazil."
   }
 ]
