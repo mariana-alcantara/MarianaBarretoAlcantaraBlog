@@ -1,0 +1,23 @@
+---
+title: "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados"
+author: "Mariana Barreto Alcantara"
+date: "2026-04-22"
+---
+
+## Introduction
+
+For my first assignment as a Junior Research Intern at Instituto Dourados, I was introduced to social epidemiology through a real dataset published by Laís, Iza, and Simone (Albuquerque, Rezende, ..., Simionatto, 2023). The data records COVID-19 infections in the Reserva Indígena de Dourados in Mato Grosso do Sul, Brazil.
+
+## What Makes This Data Special
+
+What struck me most about this dataset is what it records. Instead of just biological characteristics like height or age, the researchers recorded **social** information: which aldeia the person lived in, their Indigenous ethnicity, which COVID variant infected them, and the date of detection.
+
+This reflects a core idea at Instituto Dourados: epidemiology includes social science. Understanding **who interacts with whom** helps us understand how disease spreads and how to design better public health interventions.
+
+## What I Did in R
+
+Using R, I ran code to visualize how many COVID infections were recorded over time in the Reserva. Now I can use the same code to create the same style visualizations for new data, real or simulated.
+
+## Reflection
+
+This was my first experience analyzing real epidemiological data using R. It was challenging but rewarding to work with data that has real implications for public health in Brazil.

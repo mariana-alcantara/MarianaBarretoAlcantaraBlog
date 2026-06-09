@@ -1,0 +1,30 @@
+---
+title: "Building the Infrastructure Behind the Science: My Experience with Quarto, GitHub, and Git"
+author: "Mariana Barreto Alcântara"
+date: "2026-06-08"
+categories: [infrastructure, quarto, github, git]
+---
+
+When I joined Instituto Dourados as a Junior Research Intern, I expected to spend most of my time working with data. What I didn't expect was that some of my most valuable early contributions would be building the digital infrastructure that supports the Institute's scientific communication, and that in doing so, I would learn tools that I now consider essential to modern research work.
+
+## What Is Infrastructure Internship Work, Anyway?
+
+At Instituto Dourados, "infrastructure" means the systems that allow science to be communicated, organized, and shared with the world. That includes the Institute's bilingual website, its blog, and the technical workflows that keep everything running smoothly. As an Infrastructure Intern, my job has been to build and maintain these systems, which meant learning a set of tools I had never used before.
+
+## Quarto: Writing and Publishing in One Place
+
+The Instituto Dourados website is built with Quarto, an open-source publishing system that lets you write content in plain text and publish it as a polished website, PDF, or document. Think of it as a bridge between writing and coding, where you can mix prose, code, and formatted output all in one file.
+
+Learning Quarto meant learning a new way of thinking about documents. Instead of formatting text manually in Word or Google Docs, you write in a lightweight syntax called Markdown, and Quarto handles the rest. At first this felt counterintuitive, but I quickly came to appreciate how clean and reproducible it makes the whole process. Every page on the Instituto Dourados website, from the home page to the blog posts, is a Quarto file that I can open, edit, and republish in minutes.
+
+## GitHub and Git: Collaboration Without Chaos
+
+The other major tools I learned were Git and GitHub. Git is a version control system that keeps track of every change you make to a file, so you can always go back to an earlier version if something goes wrong. GitHub is the platform where those changes are stored and shared online.
+
+The workflow I now follow looks something like this: I make changes to the website files on my computer, commit those changes with a message describing what I did, push them to my copy of the repository on GitHub, and then open a Pull Request, a formal request for the project lead to review and approve my changes before they go live. This process has taught me to be intentional and clear about every change I make, and to communicate my work in a way that others can understand and evaluate.
+
+## What This Taught Me Beyond the Tools
+
+The most surprising thing about this work was how much it changed the way I think about collaboration and documentation. In research, it's easy to focus on the science and treat the surrounding infrastructure as an afterthought. But the infrastructure is what makes science accessible, to collaborators, to students, to the public.
+
+I'm still learning, and there is a lot more to Git and Quarto than I've explored so far, but I now feel equipped to contribute to projects that use these tools, and excited to keep building.

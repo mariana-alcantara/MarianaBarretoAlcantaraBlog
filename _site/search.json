@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "posts/first-post/index.html",
+    "href": "posts/first-post/index.html",
+    "title": "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados",
+    "section": "",
+    "text": "For my first assignment as a Junior Research Intern at Instituto Dourados, I was introduced to social epidemiology through a real dataset published by Laís, Iza, and Simone (Albuquerque, Rezende, …, Simionatto, 2023). The data records COVID-19 infections in the Reserva Indígena de Dourados in Mato Grosso do Sul, Brazil."
+  },
+  {
+    "objectID": "posts/first-post/index.html#introduction",
+    "href": "posts/first-post/index.html#introduction",
+    "title": "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados",
+    "section": "",
+    "text": "For my first assignment as a Junior Research Intern at Instituto Dourados, I was introduced to social epidemiology through a real dataset published by Laís, Iza, and Simone (Albuquerque, Rezende, …, Simionatto, 2023). The data records COVID-19 infections in the Reserva Indígena de Dourados in Mato Grosso do Sul, Brazil."
+  },
+  {
+    "objectID": "posts/first-post/index.html#what-makes-this-data-special",
+    "href": "posts/first-post/index.html#what-makes-this-data-special",
+    "title": "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados",
+    "section": "What Makes This Data Special",
+    "text": "What Makes This Data Special\nWhat struck me most about this dataset is what it records. Instead of just biological characteristics like height or age, the researchers recorded social information: which aldeia the person lived in, their Indigenous ethnicity, which COVID variant infected them, and the date of detection.\nThis reflects a core idea at Instituto Dourados: epidemiology includes social science. Understanding who interacts with whom helps us understand how disease spreads and how to design better public health interventions."
+  },
+  {
+    "objectID": "posts/first-post/index.html#what-i-did-in-r",
+    "href": "posts/first-post/index.html#what-i-did-in-r",
+    "title": "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados",
+    "section": "What I Did in R",
+    "text": "What I Did in R\nUsing R, I ran code to visualize how many COVID infections were recorded over time in the Reserva. Now I can use the same code to create the same style visualizations for new data, real or simulated."
+  },
+  {
+    "objectID": "posts/first-post/index.html#reflection",
+    "href": "posts/first-post/index.html#reflection",
+    "title": "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados",
+    "section": "Reflection",
+    "text": "Reflection\nThis was my first experience analyzing real epidemiological data using R. It was challenging but rewarding to work with data that has real implications for public health in Brazil."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My First Week at Instituto Dourados: Analyzing COVID Data from the Reserva Indígena de Dourados\n\n\n\n\n\n\n\n\nApr 22, 2026\n\n\nMariana Barreto Alcantara\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I was born in Tampa, Florida in 2007. The following year, my family moved to Aracaju, Sergipe, Brazil, where I spent my early childhood. In 2020, we relocated to Brasília, Brazil, where I founded Bem Social, a non-profit organization focused on donating food, clothing, and hygiene products to those in need.\nIn 2022, I moved to San Jose, California to attend high school, and in 2025 I began my studies at the University of California, Berkeley, double majoring in Neuroscience and Business Administration."
+  },
+  {
+    "objectID": "about.html#my-story",
+    "href": "about.html#my-story",
+    "title": "About",
+    "section": "",
+    "text": "I was born in Tampa, Florida in 2007. The following year, my family moved to Aracaju, Sergipe, Brazil, where I spent my early childhood. In 2020, we relocated to Brasília, Brazil, where I founded Bem Social, a non-profit organization focused on donating food, clothing, and hygiene products to those in need.\nIn 2022, I moved to San Jose, California to attend high school, and in 2025 I began my studies at the University of California, Berkeley, double majoring in Neuroscience and Business Administration."
+  },
+  {
+    "objectID": "about.html#what-im-involved-in",
+    "href": "about.html#what-im-involved-in",
+    "title": "About",
+    "section": "What I’m Involved In",
+    "text": "What I’m Involved In\nAt UC Berkeley:\nLatino Business Student Association — Consulting Intern\nBRASA Berkeley — Head of Finance\nBeyond Campus:\nBrazil at Silicon Valley — Head of Operations"
+  },
+  {
+    "objectID": "about.html#my-research",
+    "href": "about.html#my-research",
+    "title": "About",
+    "section": "My Research",
+    "text": "My Research\nI am currently a Junior Research Intern at Instituto Dourados, where I work on social epidemiology research focused on Indigenous public health in the Reserva Indígena de Dourados, Mato Grosso do Sul, Brazil."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mariana Barreto Alcantara",
+    "section": "",
+    "text": "I am Mariana Barreto Alcantara, a first-year student at the University of California, Berkeley, double majoring in Neuroscience and Business Administration. Originally from Salvador, Bahia, Brazil, I have spent the past four years in the United States and am passionate about applying the knowledge and skills I have gained here to strengthen Brazilian public health.\nAs a Junior Research Intern, I contribute to public health communications aimed at educating communities on healthy living practices and the role of scientific research in promoting well-being. My work also spans social sciences and computational epidemiology, where I help develop systems to visualize public health data and identify the social factors that most significantly influence disease spread across different contexts.\nDriven by my roots and my interdisciplinary background, I am committed to bridging scientific research and community impact in Brazil."
+  }
+]
